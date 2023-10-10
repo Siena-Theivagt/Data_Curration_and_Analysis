@@ -52,9 +52,3 @@ The analysis of the survey data includes:
 ## Visualizations
 
 We have created visualizations to provide insights into the survey data. You can find these visualizations in the [Visualizations](visualizations/) directory.
-
-## How to Use
-
-To use this repository, you can follow these steps:
-
-1. Clone the repository to your local machine:
