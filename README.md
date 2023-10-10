@@ -4,7 +4,7 @@
 This repository contains data and code for the analysis of survey data related to packing habits and travel preferences of survey participants. The dataset used in this analysis is provided in the `travel_survey_cleaned_data-2.csv` file.
 ### Goals
 - To learn more about the packing habits of individuals, such as overpacking, underpacking, or the amount of time people spend packing.
-- To find out the biggest reason participants travel.
+- To find out the most common reason participants travel.
 
 ## Table of Contents
 
