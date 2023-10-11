@@ -26,16 +26,17 @@ This repository contains data and code for the analysis of survey data related t
 The dataset used for this analysis can be found in the `travel_survey_cleaned_data-2.csv` file. It includes the following columns:
 
 - __age__: Age of the survey participant.
-- __airport_spending__: The amount of money participants spent on essential travel items while at the airport or final destination in the past year.
-- __gender__:The sex of the survey participant
+- - __gender__:The sex of the survey participant
 - __packing_habbit__: overpacking or underpacking habit of the survey participant
-- __travel_frequency__: frequeny
+- __airport_spending__: The amount of money participants spent on essential travel items while at the airport or final destination in the past year.
+- __travel_frequency__: frequency of how often the survey participant travels in a year
 - __airport_spending__: money the survey participant spends on essential travel items while at the airport or at their 
 - __reason__: the reason for why the survey participant travels
-- **destination**: destination of previous trip
+- **destination**: destination of the survey participant's previous trip
 - __packing_hours__: The number of hours the survey participant usually spends packing their bags before a trip
 - **travel_company**: the people the survey participant travels with
-- __transportation_mode__: the survey participant's common or favorite mode of transportation for travel 
+- __transportation_mode__: the survey participant's common or favorite mode of transportation for travel
+- __luggage__: the type of luggage the survey participant usually brings to travel
 
 ## Potential Issues
 - Of all the survey participants, 48 are female, 13 are male, and 1 preferred not to say. So any visualizations and analyses involving the gender of participants will be biased.
