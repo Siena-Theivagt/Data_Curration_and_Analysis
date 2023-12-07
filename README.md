@@ -1,4 +1,4 @@
-# Data_Curration_and_Analysis
+# Data_Curration_and_Analysis_of_Travel_and_Packing_Behavior
 
 # Project Description
 This repository contains data and code for the analysis of survey data related to packing habits and travel preferences of survey participants. The jupyter notebook named 'Data_Curration_and_Cleaning_Software.ipynb' contains the code that cleans the survey data and turns it into the dataset, which is provided in the `travel_survey_cleaned_data-2.csv` file. This dataset is then used in the file labeled 'Packing_data_analysis_and_visualizations.ipynb', which provides descriptive statistics and  visualizations of:
